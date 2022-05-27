@@ -53,8 +53,8 @@ Feature-feature yang dapat dijalankan pada GetTick antara lain :
 
 
 Creator :
-Nur Azizah (Project Manager)
-Firma Mukaromah (Analis)
-Fatwa Meilidya (Desainer)
-Annida Nur Islami (Programmer)
-Shalsahbilla N.D (Programmer)
+- Nur Azizah (Project Manager)
+- Firma Mukaromah (Analis)
+- Fatwa Meilidya (Desainer)
+- Annida Nur Islami (Programmer)
+- Shalsahbilla N.D (Programmer)
